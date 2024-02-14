@@ -1,1 +1,1 @@
-![Organization Cover Picture](cover.jpg)
+![Organization Cover Picture](profile/cover.jpg)
